@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyppdate",
+        "uuid": 1544676,
+        "checksum": "zum3a"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
